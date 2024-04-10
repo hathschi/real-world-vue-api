@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5928101,
+    "category": "animal welfare",
+    "title": "Cat Adoption Day",
+    "description": "Find your new feline friend at this event.",
+    "location": "Meow Town",
+    "date": "09.04.2024",
+    "time": "12:00",
+    "petsAllowed": true,
+    "organizer": "Kat Laydee"
+  },
+  {
+    "id": 4582797,
+    "category": "food",
+    "title": "Community Gardening",
+    "description": "Join us as we tend to the community edible plants.",
+    "location": "Flora City",
+    "date": "10.04.2024",
+    "time": "10:00",
+    "petsAllowed": true,
+    "organizer": "Fern Pollin"
+  },
+  {
+    "id": 5928101,
+    "category": "sustainability",
+    "title": "Beach Cleanup",
+    "description": "Help pick up trash along the shore.",
+    "location": "Playa Del Carmen",
+    "date": "11.04.2024",
+    "time": "09:00",
+    "petsAllowed": false,
+    "organizer": "Carey Wales"
+  }
+]
